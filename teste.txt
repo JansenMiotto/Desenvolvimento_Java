@@ -1,0 +1,6 @@
+Relação de carros;true;Jansen Miotto;123456789-10;cliente@cliente.com;
+S;Jeep Renegade;preto;4;true;100;true;5;2
+E;Ford Ka;preto;5;true;50;true;1;true
+S;Jac t40;preto;6;true;100;false;5;2
+E;Celta;preto;7;true;50;false;2;true
+C;Caminhão;preto;8;true;200;true;Liquido Inflamavel;6
