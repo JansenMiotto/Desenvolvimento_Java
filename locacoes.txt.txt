@@ -1,0 +1,6 @@
+descrição;true;nome do cliente;123456789-10;cliente@cliente.com;
+S;carro1;preto;4;true;100
+E;carro3;preto;5;true;50
+S;carro2;preto;6;true;100
+E;carro4;preto;7;true;50
+C;carro5;preto;8;true;200
